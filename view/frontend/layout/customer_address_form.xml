@@ -10,7 +10,7 @@
       xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
     <body>
         <referenceContainer name="content">
-             <block class="O2TI\InputMasking\Block\Customer\Address" name="input_masking" template="O2TI_InputMasking::account/address/inputMasking.phtml" after="-"/>
+             <!-- <block class="O2TI\InputMasking\Block\Customer\Address" name="input_masking" template="O2TI_InputMasking::account/address/inputMasking.phtml" after="-"/> -->
         </referenceContainer>
     </body>
 </page>
